@@ -1,0 +1,20 @@
+.wrapper {
+	margin:0 auto;
+	padding-top: 0%;
+	top: -10%;
+}
+.passwordwrapper {
+	margin:0 auto;
+	top: -15%;
+}
+
+.loginwrapper {
+	text-align: center;
+}
+.login {
+	margin-top: 3%;
+}
+.loginMessage {
+	color: red;
+	text-align: center;
+}
